@@ -36,7 +36,11 @@ const ProjectsGrid = () => {
           className="font-general-medium block text-left text-md bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-sm px-4 py-2 mt-2 duration-300 w-100 text-nowrap"
           aria-label="More Projects"
         >
-          <a href="https://github.com/elenesokhadze" target="_blank">
+          <a
+            href="https://github.com/elenesokhadze"
+            target="_blank"
+            rel="noreferrer"
+          >
             More Projects
           </a>
         </span>
